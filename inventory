@@ -7,3 +7,6 @@ ubuntu1_ho ansible_host=192.168.56.116
 
 [file_servers]
 ubuntu2_ho ansible_host=192.168.56.117
+
+[workstations]
+ubuntu1_ho ansible_host=192.168.56.116
